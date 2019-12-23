@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <h1>{{ msg }}</h1>
     <p>Test My Home Test My Home Test My Home Test My Home Test My Home Test My Home Test My Home Test My Home Test My Home</p>
     <p>Test My Home Test My Home Test My Home Test My Home Test My Home Test My Home Test My Home Test My Home Test My Home</p>
     <p>Test My Home Test My Home Test My Home Test My Home Test My Home Test My Home Test My Home Test My Home Test My Home</p>
